@@ -29,7 +29,8 @@ g = [
     [
         21,
         45,
-
+        78,
+        97,
     ]    
 ]
 print(type(g))
@@ -40,4 +41,4 @@ d = {
 }
 
 print(d["key"])
-print(list(d.keys()))
+print(list(d.keys())) 
